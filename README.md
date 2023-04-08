@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abid0987&show_icons=true&locale=en" alt="abid0987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abid0987&" alt="abid0987" /></p>
+
+
+### Github trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=kg-0805&theme=dark)
+
+[![@kg0805's Holopin board](https://holopin.io/api/user/board?user=kg0805)](https://holopin.io/@kg0805)
