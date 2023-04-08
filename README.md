@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Abid0987/Abid0987/blob/main/Screenshot%202023-04-08%20122350.png" alt="abid0987" /> </p>
+<p align="center"> <img src="https://github.com/Abid0987/Abid0987/blob/main/Screenshot%202023-04-08%20122350%20(2).png" alt="abid0987" /> </p>
 
 <h1 align="center">Hi There👋, I'm Black Hate</h1>
 <h3 align="center">Translating complex problems into elegant solutions through code.</h3>
