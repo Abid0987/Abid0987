@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Number-2 : [Problem Solving](https://leetcode.com/problemset/all/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abid0987?tab=repositories](https://github.com/Abid0987?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Abid0987?tab=repositories)
 
 - 📫 How to reach me **blackhate0102@gmail.com**
 
