@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abid0987&label=Profile%20views&color=0e75b6&style=flat" alt="abid0987" /> </p>
 
-- 🔭 I’m currently working on Number-1 : [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
-
 - 💻 My Website : [Black Hate](https://blackhate14.000webhostapp.com/)
+
+- 🔭 I’m currently working on Number-1 : [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 
 - 🔭 I’m currently working on Number-2 : [Problem Solving](https://leetcode.com/problemset/all/)
 
