@@ -9,6 +9,8 @@
 
 - 💻 My Website : [Black Hate](https://blackhate14.000webhostapp.com/)
 
+- 👨🏻‍💼 My Intel : [Black Hate 0day](https://blackhate0day.000webhostapp.com/)
+
 - 🔭 I’m currently working on Number-1 : [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 
 - 🔭 I’m currently working on Number-2 : [Problem Solving](https://leetcode.com/problemset/all/)
